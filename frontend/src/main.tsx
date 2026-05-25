@@ -5,7 +5,7 @@ import App from "./App.tsx";
 import { AppProvider } from "./context/AppContext.tsx";
 import { GoogleOAuthProvider } from "@react-oauth/google";
 
-export const server = "http://localhost:5000";
+export const server = "https://ai-resume-builder-3fqi.onrender.com";
 
 createRoot(document.getElementById("root")!).render(
   <StrictMode>
