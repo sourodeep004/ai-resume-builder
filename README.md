@@ -89,7 +89,7 @@ ai-resume-builder/
 ---
 
 ### Resume Builder
-<img src="./Screenshots/ResumeBuilder/ResumeBuilder1.png" width="900"/>
+<img src="./Screenshots/ResumeBuilder/ResumeBuilderPage1.png" width="900"/>
 
 ---
 
