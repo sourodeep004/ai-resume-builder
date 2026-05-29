@@ -31,9 +31,9 @@ https://ai-resume-builder-wine-nine.vercel.app/
 
 ### Other Tools
 - Gemini API 
-- OAuth Authentication (if used)
+- OAuth Authentication 
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 ai-resume-builder/
@@ -81,4 +81,57 @@ ai-resume-builder/
 │
 └── README.md
 ```
+## Screenshots
+
+### Home Page
+<img src="./Screenshots/HomePage/HomePage1.png" width="900"/>
+
+---
+
+### Resume Builder
+<img src="./Screenshots/ResumeBuilder/ResumeBuilder1.png" width="900"/>
+
+---
+
+### Resume Analysis
+
+#### Analysis Page 1
+<img src="./Screenshots/AnalyzePage/AnalyzePage1.png" width="900"/>
+
+#### Analysis Page 2
+<img src="./Screenshots/AnalyzePage/AnalyzePage2.png" width="900"/>
+
+---
+
+### Job Matcher
+<img src="./Screenshots/JobMatcher/JobMatcherPage1.png" width="900"/>
+
+---
+
+### Interview Preparation
+<img src="./Screenshots/InterViewPrepPage/InterViewPrepPage1.png" width="900"/>
+
+---
+
+### Profile Page
+<img src="./Screenshots/ProfilePage/ProfilePage1.png" width="900"/>
+
+### Use Case
+This project helps:
+- Students
+- Freshers
+- Job seekers
+- Professionals
+create professional resumes quickly with AI assistance and ATS-friendly formatting.
+### Future Improvements
+- More resume templates
+- Drag-and-drop sections
+- Resume scoring
+- Job-description matching
+- Cloud resume storage
+- Dark mode
+## Author
+Sourodeep Saha
+GitHub: https://github.com/sourodeep004
+
 
